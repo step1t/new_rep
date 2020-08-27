@@ -4,4 +4,5 @@
 
 # no bin directories
 /bin
+bin/
 target/
